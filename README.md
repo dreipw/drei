@@ -8,7 +8,6 @@ drei
 
 
 
-<!DOCTYPE html>
 <html>
   <head>
     <title>drei</title>
