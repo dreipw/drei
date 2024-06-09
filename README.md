@@ -3,7 +3,7 @@ drei
 :)
 
 
-<a href="https://linkedin.com/company/drei">LinkedIn</a> | <a href="https://instagram.com/drei.pw">Instagram</a>
+<a href="https://linkedin.com/company/drei">LinkedIn</a> | <a href="https://instagram.com/drei.pw">Instagram</a> - <p>follow us on <a href="https://linkedin.com/company/drei" target="_blank">linkedin</a> or <a href="https://instagram.com/drei.pw" target="_blank">instagram</a>.</p>
 
 
 
