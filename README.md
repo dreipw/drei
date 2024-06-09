@@ -1,19 +1,6 @@
 # drei
-drei
-:)
+hello world
 
 
-<a href="https://linkedin.com/company/drei">LinkedIn</a> | <a href="https://instagram.com/drei.pw">Instagram</a>
+<a href="mailto://hi@drei.pw">LinkedIn</a> | <a href="https://linkedin.com/company/drei">LinkedIn</a> | <a href="https://instagram.com/drei.pw">Instagram</a> | <a href="https://rmtgruppe.com/rechtliches">Rechtliches</a>
 
-
-
-
-<html>
-  <head>
-    <title>drei</title>
-  </head>
-  <body>
-    <h1>social media</h1>
-    <p>follow us on <a href="https://linkedin.com/company/drei" target="_blank">linkedin</a> or <a href="https://instagram.com/drei.pw" target="_blank">instagram</a>.</p>
-  </body>
-</html>
